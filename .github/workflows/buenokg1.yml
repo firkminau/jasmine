@@ -3,8 +3,8 @@ on:
   push:
     paths:
       - app.py
-  schedule:
-    - cron: '38 0,6,12,18 * * *'  # Run at 00:00 and 12:00 UTC daily
+#  schedule:
+#    - cron: '38 0,6,12,18 * * *'  # Run at 00:00 and 12:00 UTC daily
 
 jobs:
   push-kernels:
