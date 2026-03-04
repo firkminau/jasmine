@@ -57,4 +57,5 @@
     "last 2 Chrome versions",
     "last 2 Edge versions"
   ]
+
 }
