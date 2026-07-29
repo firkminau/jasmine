@@ -1,5 +1,6 @@
 {
   "name": "jasmine-core",
+
   "license": "MIT",
   "version": "6.0.0-beta.1",
   "repository": {
